@@ -29,7 +29,7 @@ Blinks an external LED on the **SiWx917 Dev Kit (BRD2605A)** using the SI91x GPI
 |-----------|--------|---------|
 | `sl_si91x_driver_gpio` | `sl_si91x_driver_gpio.h` | GPIO init, config, toggle |
 | `sl_sleeptimer` | `sl_sleeptimer.h` | Periodic timer callback |
-| Board Config | `sl_gpio_board.h` | GPIO pin mapping for BRD2605A |
+| `Board Config` | `sl_gpio_board.h` | GPIO pin mapping for BRD2605A |
 
 ---
 
